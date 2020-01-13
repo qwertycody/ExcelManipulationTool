@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExcelManipulationTool", "ExcelManipulationTool\ExcelManipulationTool.csproj", "{7BF2DB20-9D7D-434E-AC3B-671C0C5F91D5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExcelManipulationTool_Launcher", "ExcelManipulationTool_Launcher\ExcelManipulationTool_Launcher.csproj", "{C460F96C-A293-4F38-B55D-B8BA8683A187}"
+	ProjectSection(ProjectDependencies) = postProject
+		{7BF2DB20-9D7D-434E-AC3B-671C0C5F91D5} = {7BF2DB20-9D7D-434E-AC3B-671C0C5F91D5}
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7BF2DB20-9D7D-434E-AC3B-671C0C5F91D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BF2DB20-9D7D-434E-AC3B-671C0C5F91D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BF2DB20-9D7D-434E-AC3B-671C0C5F91D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BF2DB20-9D7D-434E-AC3B-671C0C5F91D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C460F96C-A293-4F38-B55D-B8BA8683A187}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C460F96C-A293-4F38-B55D-B8BA8683A187}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C460F96C-A293-4F38-B55D-B8BA8683A187}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C460F96C-A293-4F38-B55D-B8BA8683A187}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F9EEE248-E25E-4685-A8BE-3B674FA5CDA7}
+	EndGlobalSection
+EndGlobal

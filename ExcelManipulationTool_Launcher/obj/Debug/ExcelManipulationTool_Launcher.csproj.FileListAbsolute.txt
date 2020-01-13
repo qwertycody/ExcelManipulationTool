@@ -1,0 +1,8 @@
+C:\Users\cody\Documents\Repository\ExcelManipulationTool\ExcelManipulationTool_Launcher\bin\Debug\ExcelManipulationTool_Launcher.exe.config
+C:\Users\cody\Documents\Repository\ExcelManipulationTool\ExcelManipulationTool_Launcher\bin\Debug\ExcelManipulationTool_Launcher.exe
+C:\Users\cody\Documents\Repository\ExcelManipulationTool\ExcelManipulationTool_Launcher\bin\Debug\ExcelManipulationTool_Launcher.pdb
+C:\Users\cody\Documents\Repository\ExcelManipulationTool\ExcelManipulationTool_Launcher\obj\Debug\ExcelManipulationTool_Launcher.Properties.Resources.resources
+C:\Users\cody\Documents\Repository\ExcelManipulationTool\ExcelManipulationTool_Launcher\obj\Debug\ExcelManipulationTool_Launcher.csproj.GenerateResource.cache
+C:\Users\cody\Documents\Repository\ExcelManipulationTool\ExcelManipulationTool_Launcher\obj\Debug\ExcelManipulationTool_Launcher.csproj.CoreCompileInputs.cache
+C:\Users\cody\Documents\Repository\ExcelManipulationTool\ExcelManipulationTool_Launcher\obj\Debug\ExcelManipulationTool_Launcher.exe
+C:\Users\cody\Documents\Repository\ExcelManipulationTool\ExcelManipulationTool_Launcher\obj\Debug\ExcelManipulationTool_Launcher.pdb
